@@ -1,5 +1,6 @@
 /build/
-/.vscode/
+.vscode/
+.vscode/*
 sys-menumusic.nsp
 exefs.nsp
 sys-menumusic.elf
