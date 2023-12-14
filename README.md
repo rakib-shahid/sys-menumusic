@@ -1,8 +1,11 @@
 # sys-menumusic
 A Nintendo switch sysmodule that aims to add Home Menu music to the switch like the consoles before it
 
+# sys-tune now has this functionality
+I may or may not come around to finishing this sysmodule
+
 # Note
-- sys-tune should get this functionality eventually, but until then and until I fix this version <br> you can use the release from [my fork of sys-tune](https://github.com/rakib-shahid/sys-tune-menu-only). <br> This fork works perfectly
+- ~~sys-tune should get this functionality eventually, but until then and until I fix this version <br> you can use the release from [my fork of sys-tune](https://github.com/rakib-shahid/sys-tune-menu-only). <br> This fork works perfectly~~
 - The module automatically plays the file "SD:/music/home.mp3" on the home menu
 - Currently not meant to be used as audio crackle is quite bad, but feel free to try it from releases
 
